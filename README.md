@@ -25,7 +25,7 @@ I am a front-end and back-end developer. I have been a developer for about 2 yea
 
 <h6>⚡ Tools / Apps</h6>
 <p width="45%">
-    <img src="https://skillicons.dev/icons?i=js,html,css,github,discord,cloudflare,stackoverflow,mongodb,nodejs,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,github,discord,cloudflare,stackoverflow,mongodb,nodejs,vscode&perline=6" />
 </p>
 
 
