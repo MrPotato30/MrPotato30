@@ -23,8 +23,8 @@ I am a front-end and back-end developer. I have been a developer for about 2 yea
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 
-<p align="right">
-  <h6>⚡ Tools / Apps</h6>
+<h6>⚡ Tools / Apps</h6>
+<p align="right" width="45%">
     <img src="https://skillicons.dev/icons?i=js,html,css,discord,github,mongodb,nodejs,vscode" />
 </p>
 
