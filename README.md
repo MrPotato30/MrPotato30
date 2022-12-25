@@ -12,7 +12,6 @@ I am a front-end and back-end developer. I have been a developer for about 2 yea
 
 ---
 
-
 [<img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MrPotato30&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,prs">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MrPotato30&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=prs">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
