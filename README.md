@@ -27,6 +27,8 @@ I am a front-end and back-end developer. I have been a developer for about 2 yea
     <img src="https://skillicons.dev/icons?i=js,html,css,github,discord,cloudflare,stackoverflow,mongodb,nodejs,vscode&perline=6" />
 </p>
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mrpotato30.mrpotato30)
+
 
 
 
