@@ -3,7 +3,7 @@
 [<img align="right" width="45%" src="https://lanyard.cnrad.dev/api/768362780545384449?idleMessage=No+Activity&bg=00000000">](https://metrics.lecoq.io/MrPotato30#gh-dark-mode-only)
 [<img align="right" width="45%" src="https://lanyard.cnrad.dev/api/768362780545384449?idleMessage=No+Activity&bg=00000000">](https://metrics.lecoq.io/MrPotato30#gh-light-mode-only)
 
-I am a front-end and back-end developer. I have been a developer for about 2 years, started on my first Node.js projet on May 9, 2021. I have become proficient in some of the common programming languages, including JavaScript, HTML, CSS, and Node.js. I am currently focused on front-end development.
+I am a front-end and back-end developer. I have been a developer for about 2 years, started on my first Node.js project on May 9, 2021. I have become proficient in some of the common programming languages, including JavaScript, HTML, CSS, and Node.js. I am currently focused on front-end development.
 
 - ♂️ Male
 - 🌏 Asia
